@@ -2,7 +2,6 @@ package day15ch07excercise05;
 
 import java.util.*;
 
-
 public class Ex05Main {
 	public static final int MAX = 4;
 	public static Scanner scan;
